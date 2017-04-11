@@ -13,6 +13,7 @@
 + (void)test{
     NSLog(@"%s",__func__);
     NSLog(@"我是0.0.2");
+    NSLog(@"傻逼菜鸡");
 }
 
 @end
