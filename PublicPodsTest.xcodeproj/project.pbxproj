@@ -491,6 +491,7 @@
 				A4D016FE1E9C77CA000E11D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A4D016FF1E9C77CA000E11D6 /* Build configuration list for PBXNativeTarget "PublicPodsTestTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				A4D017011E9C77CA000E11D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A4D017021E9C77CA000E11D6 /* Build configuration list for PBXNativeTarget "PublicPodsTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +509,7 @@
 				A4D017041E9C77CA000E11D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
