@@ -12,6 +12,7 @@
 
 + (void)test{
     NSLog(@"%s",__func__);
+    NSLog(@"我是0.0.2");
 }
 
 @end
